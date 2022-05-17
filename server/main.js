@@ -5,4 +5,3 @@ import { Meteor } from "meteor/meteor";
 // Meteor.startup(() => {
 //   process.env.MONGODB_URI
 // })
-// 

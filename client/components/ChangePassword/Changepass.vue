@@ -6,6 +6,7 @@
           <input type="password" v-model="old"  id="" required>
           <label for="">New Password</label>
           <input type="password" v-model="newPass"  id="" required>
+          
  
 
         <button class="pass-btn" > Save</button>
